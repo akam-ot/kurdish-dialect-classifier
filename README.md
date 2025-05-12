@@ -1,6 +1,6 @@
 # Kurdish Dialect Classifier
 
-A lightweight web app that automatically classifies Kurdish text (in Perso-Arabic script) as either **Sorani** or **Kurmanji (Badini)** dialect.
+A lightweight web app that automatically classifies Kurdish text (in Perso-Arabic script) as either **Sorani (Central Kurdish)** or **Kurmanji (Badini)** dialect.
 
 [![Demo on Hugging Face Spaces](https://img.shields.io/badge/Live%20Demo-Hugging%20Face%20Spaces-blue)](https://huggingface.co/spaces/akam-ot/kurdish-dialect-classifier)
 
@@ -42,4 +42,4 @@ A lightweight web app that automatically classifies Kurdish text (in Perso-Arabi
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
+This project is licensed under the **MIT License**.
